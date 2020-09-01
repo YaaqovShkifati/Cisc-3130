@@ -1,7 +1,7 @@
 /**
 The Lab1 class simply displays hello world.
 */
-public class Lab1(){
+public class Lab1 {
 
 public Lab1(){
 System.out.println("Hello world");
